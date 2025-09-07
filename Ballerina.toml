@@ -1,0 +1,13 @@
+[package]
+org = "commons"
+name = "strings"
+version = "0.1.0"
+distribution = "2201.12.7"
+authors = ["Hasitha Aravinda"]
+keywords = ["strings", "text", "formatting", "case-conversion", "sanitization", "padding"]
+repository = "https://github.com/bal-tips/module-commons-strings"
+icon = "icon.png"
+license = ["Apache-2.0"]
+
+[platform.java21]
+graalvmCompatible = true
